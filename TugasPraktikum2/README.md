@@ -15,7 +15,7 @@ Pastikan Anda telah menginstal **Python 3.x** di komputer Anda.
 
 ## 1. Largest Monotonically Increasing Subsequence (LMIS)
 
-[cite_start]Program ini mengimplementasikan struktur data **Tree** untuk mencari urutan angka yang nilainya terus meningkat dari sebuah deret bilangan acak, sesuai dengan konsep yang diberikan[cite: 3, 4].
+Program ini mengimplementasikan struktur data **Tree** untuk mencari urutan angka yang nilainya terus meningkat dari sebuah deret bilangan acak, sesuai dengan konsep yang diberikan.
 
 ### Cara Menjalankan Program
 
