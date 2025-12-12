@@ -18,16 +18,16 @@ Repositori ini berisi kode implementasi untuk tugas praktikum mata kuliah Teori 
 ## Struktur Direktori
 
 Setiap folder Praktikum berisi dua jenis file:
-* **`.ipynb`**: Berisi kode program beserta penjelasan algoritma dan visualisasi.
+* **`.md`**: Berisi penjelasan algoritma dan visualisasi.
 * **`.py`**: Berisi kode implementasi untuk menyelesaikan permasalahan.
 
 ```bash
 .
 ├── TugasPraktikum1/
-│   ├── knights_tour.ipynb
+│   ├── README.md
 │   └── knights_tour.py
 ├── TugasPraktikum2/
-│   ├── lis_tree.ipynb
+│   ├── README.md
 │   └── lis_tree.py
 └── README.md
 ````
