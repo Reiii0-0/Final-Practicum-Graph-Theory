@@ -23,10 +23,10 @@ Setiap folder Praktikum berisi dua jenis file:
 
 ```bash
 .
-├── Praktikum 1/
+├── TugasPraktikum1/
 │   ├── knights_tour.ipynb
 │   └── knights_tour.py
-├── Praktikum 2/
+├── TugasPraktikum2/
 │   ├── lis_tree.ipynb
 │   └── lis_tree.py
 └── README.md
@@ -51,7 +51,7 @@ Output program akan menampilkan visualisasi rute perjalanan kuda pada grid papan
 
 1.  Jalankan file script:
     ```bash
-    python "Praktikum 1/knights_tour.py"
+    python "TugasPraktikum1/knights_tour.py"
     ```
 2.  **Input**: Masukkan koordinat awal kuda (baris 0-7, kolom 0-7) saat diminta program.
 3.  **Output**: Program akan mencetak matriks atau visualisasi langkah demi langkah (1 sampai 64) yang menunjukkan urutan kunjungan kuda.
@@ -75,7 +75,7 @@ Tujuan program adalah mencari urutan bilangan yang nilainya terus menaik dengan 
 
 1.  Jalankan file script:
     ```bash
-    python "Praktikum 2/lis_tree.py"
+    python "TugasPraktikum2/lis_tree.py"
     ```
 2.  **Input**: Program secara default menggunakan urutan angka dari modul. (Opsional: Anda bisa memodifikasi kode untuk menerima input user).
 3.  **Output**: Program akan menampilkan panjang maksimum subsekuens dan deret angka tersebut.
