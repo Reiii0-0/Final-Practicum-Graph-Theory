@@ -9,7 +9,7 @@
 * **Output**
     Program akan menghasilkan salah satu *subsequence* terpanjang, misalnya `[0, 2, 8, 11]` atau `[1, 2, 8, 11]`.
 
-## 📋 Prasyarat
+## Prasyarat
 
 Pastikan Anda telah menginstal **Python 3.x** di komputer Anda.
 
@@ -17,7 +17,7 @@ Pastikan Anda telah menginstal **Python 3.x** di komputer Anda.
 
 [cite_start]Program ini mengimplementasikan struktur data **Tree** untuk mencari urutan angka yang nilainya terus meningkat dari sebuah deret bilangan acak, sesuai dengan konsep yang diberikan[cite: 3, 4].
 
-### 🚀 Cara Menjalankan Program
+### Cara Menjalankan Program
 
 1.  Buka terminal atau command prompt.
 2.  Arahkan direktori ke folder tempat file disimpan.
@@ -27,7 +27,7 @@ Pastikan Anda telah menginstal **Python 3.x** di komputer Anda.
     ```
     *(Ganti `lmis_tree.py` dengan nama file kode python Anda)*
 
-### 📥 Format Input
+### Format Input
 
 Program dirancang untuk menerima input dinamis dari pengguna.
 * Masukkan sekumpulan angka bilangan bulat.
